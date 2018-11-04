@@ -1,4 +1,8 @@
-# pcre-heavy [![Hackage](https://img.shields.io/hackage/v/pcre-heavy.svg?style=flat)](https://hackage.haskell.org/package/pcre-heavy) [![Build Status](https://img.shields.io/travis/myfreeweb/pcre-heavy.svg?style=flat)](https://travis-ci.org/myfreeweb/pcre-heavy) [![unlicense](https://img.shields.io/badge/un-license-green.svg?style=flat)](http://unlicense.org)
+[![Hackage](https://img.shields.io/hackage/v/pcre-heavy.svg?style=flat)](https://hackage.haskell.org/package/pcre-heavy)
+[![Build Status](https://img.shields.io/travis/myfreeweb/pcre-heavy.svg?style=flat)](https://travis-ci.org/myfreeweb/pcre-heavy)
+[![unlicense](https://img.shields.io/badge/un-license-green.svg?style=flat)](http://unlicense.org)
+
+# pcre-heavy
 
 *Finally!* A Haskell regular expressions library that does not suck.
 
@@ -118,9 +122,8 @@ $ stack ghci --ghc-options="-fno-hpc"
 ## Contributing
 
 Please feel free to submit pull requests!
-Bugfixes and simple non-breaking improvements will be accepted without any questions :-)
 
-By participating in this project you agree to follow the [Contributor Code of Conduct](http://contributor-covenant.org/version/1/2/0/).
+By participating in this project you agree to follow the [Contributor Code of Conduct](http://contributor-covenant.org/version/1/4/).
 
 ## License
 
